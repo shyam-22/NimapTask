@@ -1,0 +1,13 @@
+{
+    "world":
+[
+    {"id" : "1", "country":"india" ,"capital":"New delhi"},
+    {"id" : "2", "country":"Chile" ,"capital":"Santigo"},
+    {"id" : "3", "country":"Japan" ,"capital":"Tokyo"},
+    {"id" : "4", "country":"Nepal" ,"capital":"kathmandu"},
+    {"id" : "5", "country":"Canada" ,"capital":"Ottawa"}
+]
+}
+
+
+
